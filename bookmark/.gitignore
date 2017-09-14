@@ -1,0 +1,6 @@
+*.pyc
+*~
+__pychche__
+/myenv
+db.sqlite3
+/static
